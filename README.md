@@ -52,8 +52,6 @@ likelion26/profile → likelion26
 
 > **주의:** `main` 브랜치로 직접 PR을 보내지 않도록 꼭 확인해주세요.
 
----
-
 ## 제출 흐름 한눈에 보기
 
 ```bash
@@ -70,8 +68,13 @@ main
 
 이 순서로 진행하면 됩니다.
 
----
-
 ## 참고 자료
 
 - [(무료) 매우 쉽게 알려주는 Git & GitHub](https://codingapple.com/course/git-and-github/)
+
+---
+
+## 과제 목록
+| 과제 명 | 브랜치 명 | 강의 날짜 |
+|---|---|---|
+| 아기 사자 자기소개 페이지(정적) 만들기 | profile | 260326 |
